@@ -1,6 +1,0 @@
-c:\users\terriquez\documents\visual studio 2015\Projects\pruebaunitariaordenamiento\pruebaunitariaordenamiento\bin\Debug\pruebaunitariaordenamiento.dll
-c:\users\terriquez\documents\visual studio 2015\Projects\pruebaunitariaordenamiento\pruebaunitariaordenamiento\bin\Debug\pruebaunitariaordenamiento.pdb
-c:\users\terriquez\documents\visual studio 2015\Projects\pruebaunitariaordenamiento\pruebaunitariaordenamiento\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-c:\users\terriquez\documents\visual studio 2015\Projects\pruebaunitariaordenamiento\pruebaunitariaordenamiento\obj\Debug\pruebaunitariaordenamiento.csprojResolveAssemblyReference.cache
-c:\users\terriquez\documents\visual studio 2015\Projects\pruebaunitariaordenamiento\pruebaunitariaordenamiento\obj\Debug\pruebaunitariaordenamiento.dll
-c:\users\terriquez\documents\visual studio 2015\Projects\pruebaunitariaordenamiento\pruebaunitariaordenamiento\obj\Debug\pruebaunitariaordenamiento.pdb
