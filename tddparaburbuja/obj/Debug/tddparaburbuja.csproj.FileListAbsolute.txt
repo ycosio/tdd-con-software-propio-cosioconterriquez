@@ -5,3 +5,6 @@ C:\Users\Terriquez\Documents\Visual Studio 2015\Projects\pruebaunitariaordenamie
 C:\Users\Terriquez\Documents\Visual Studio 2015\Projects\pruebaunitariaordenamiento\tdd-con-software-propio-cosioconterriquez\tddparaburbuja\obj\Debug\tddparaburbuja.csprojResolveAssemblyReference.cache
 C:\Users\Terriquez\Documents\Visual Studio 2015\Projects\pruebaunitariaordenamiento\tdd-con-software-propio-cosioconterriquez\tddparaburbuja\obj\Debug\tddparaburbuja.exe
 C:\Users\Terriquez\Documents\Visual Studio 2015\Projects\pruebaunitariaordenamiento\tdd-con-software-propio-cosioconterriquez\tddparaburbuja\obj\Debug\tddparaburbuja.pdb
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\tdd-con-software-propio-cosioconterriquez\tddparaburbuja\bin\Debug\tddparaburbuja.exe.config
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\tdd-con-software-propio-cosioconterriquez\tddparaburbuja\obj\Debug\tddparaburbuja.exe
+C:\Users\ycosio\Documents\Visual Studio 2015\Projects\tdd-con-software-propio-cosioconterriquez\tddparaburbuja\obj\Debug\tddparaburbuja.pdb
